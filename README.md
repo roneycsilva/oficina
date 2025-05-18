@@ -6,6 +6,12 @@ Este sistema foi desenvolvido em Java no **NetBeans IDE 21** para gerenciar dado
 
 O objetivo é oferecer uma solução prática e acessível para pequenas e médias oficinas, melhorando a organização interna, o acompanhamento dos serviços e a transparência com o cliente.
 
+## Evolução do projeto
+
+A próxima etapa prevista para o sistema é o gerenciamento completo de orçamentos. Isso inclui o cadastro detalhado das peças necessárias para substituição, elaboração de orçamentos com valores das peças e mão de obra, definição do prazo previsto para entrega dos serviços, além da geração automática de garantia válida por 4 meses.
+
+Essa evolução visa transformar o sistema em uma solução ainda mais robusta e prática para pequenas e médias oficinas, aprimorando a organização dos processos internos, aumentando a transparência das informações para o cliente e otimizando a gestão dos serviços prestados.
+
 ## Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação principal para desenvolvimento do sistema.
