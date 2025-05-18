@@ -32,3 +32,6 @@ Essa evolução visa transformar o sistema em uma solução ainda mais robusta e
 
 Se precisar de ajuda para configurar o ambiente ou contribuir com o projeto, fique à vontade para abrir issues ou pull requests.
 
+[![Assista ao vídeo](https://vumbnail.com/1085436229.jpg)](https://vimeo.com/1085436229)
+
+
