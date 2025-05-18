@@ -465,3 +465,7 @@ DELETE FROM clientes WHERE id = 7;
 ![image](https://github.com/user-attachments/assets/0bc60421-f607-4c58-aa29-9fe41d38d438)
 
 
+[![Assista ao vídeo](https://vumbnail.com/1085436229.jpg)](https://vimeo.com/1085436229)
+
+
+
