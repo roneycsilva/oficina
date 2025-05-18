@@ -458,7 +458,7 @@ DELETE FROM clientes WHERE id = 7;
 ```
 ### 8.5 Estrutura do Programa dentro da IDE MySQL Workbench.
 
-![image](https://github.com/user-attachments/assets/de68b660-ccc0-431d-98be-66dcd59b992f)
+![image](https://github.com/user-attachments/assets/d1fa10e7-d907-4681-9571-c4955cf34943)
 
 
 ### 8.6 Visualização do EER Driagrama do Bando de Dados Odicina.
