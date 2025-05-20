@@ -69,7 +69,7 @@ import java.awt.Image;
 import javax.swing.*;
 import java.sql.ResultSet;
 
-// public class Oficina extends JFrame {
+
     private JTextField idField, nomeField, telefoneField, emailField;
     private JTextField modeloField, corField, marcaField, placaField;
     private JButton incluirBtn, editarBtn, consultarBtn, excluirBtn, limparBtn;
@@ -116,7 +116,7 @@ import java.sql.ResultSet;
         excluirBtn = new JButton("Excluir");
         limparBtn = new JButton("Limpar");
 
-        // Posicionamento dos elementos
+        
         idLabel.setBounds(20, 20, 100, 20);
         idField.setBounds(120, 20, 200, 20);
         nomeLabel.setBounds(20, 50, 100, 20);
